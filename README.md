@@ -1,6 +1,6 @@
 **안녕하세요 교수님!**:smile:  
 이렇게 인사를 드리게 되어 아주 영광입니다.  
-제가 *이번 추석에:full_moon:* *무얼 먹었는지:plate_with_cutlery:* 알려드리겠습니다.  
+제가 *이번 <U>추석에</U>:full_moon:* *무얼 <U>먹었는지:plate_with_cutlery:</U>* 알려드리겠습니다.  
 
 어제
 * :falafel:**송편**
